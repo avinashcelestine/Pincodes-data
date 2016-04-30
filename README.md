@@ -9,7 +9,7 @@ This data is then split into different components as follows :
 
 This site, from the governments PMJDY project, has geolocations of post offices among other POIs. http://pmjdy.gov.in/g-i-s.aspx
 There are approximately 142,000 post offices with pincodes and geocodes given in this data.
-Data for post offices from this site, matched to the pincodes from the 'master' file above, are pincodes_lat_lon.txt. This file contains pins vs geocodes data for 135,000 locations.
+Data for post offices from this site, matched to the pincodes from the 'master' file above, are in <b>pincodes_lat_lon.txt/b>. This file contains pins vs geocodes data for 135,000 locations.
 Data that could not be matched to pincodes as yet, roughly 7k-8k locations are in the 'lat_lng_unjoined' file. (These two files put together comprise all the data from the PMJDY page referred to above)
 
 pincodes_censuscodes.zip: 
